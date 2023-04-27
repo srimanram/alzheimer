@@ -24,7 +24,7 @@ Navigate into the project's directory
 Navigate into backend folder
 
 ```bash
-    cd ./backend.
+    cd ./backend
 ```
 
 Start the server
